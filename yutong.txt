@@ -1,3 +1,7 @@
 Hi my name is wendy.
+<<<<<<< HEAD
 
 I like blue
+=======
+Hihihihihi
+>>>>>>> haha
